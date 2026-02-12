@@ -18,7 +18,8 @@ namespace CarSpots
         
         public Vehicle FindVehicle(string licensePlate)
         {
-            return parkingSpots.SingleOrDefault(f => f.ParkedVehicle.LicensePlate == licensePlate)?.ParkedVehicle;
+            return parkingSpots.SingleOrDefault(f => f.ParkedVehicle!=null && !string.IsNullOrWhiteSpace(f.ParkedVehicle.LicensePlate) && 
+                f.ParkedVehicle.LicensePlate == licensePlate)?.ParkedVehicle;
         }
 
         public IEnumerable<ParkingSpot> GetAvailableSpots()

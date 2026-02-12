@@ -20,6 +20,10 @@ namespace TestProject1
             _service.Park(truck);
 
             var spacesAvailable = _service.GetAvailableSpots();
+            Assert.True(_service.GetAvailableSpots().Count() == 56);
+            _service.Leave(truck);
+            Assert.True(_service.GetAvailableSpots().Count() == 58);
+            Assert.NotNull(_service.FindVehicle(car.LicensePlate));
         }
     }
 }

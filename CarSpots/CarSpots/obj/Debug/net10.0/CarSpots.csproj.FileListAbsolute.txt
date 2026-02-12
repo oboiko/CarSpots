@@ -26,3 +26,4 @@ C:\Projects\ToGitHub\CarSpots\CarSpots\CarSpots\obj\Debug\net10.0\refint\CarSpot
 C:\Projects\ToGitHub\CarSpots\CarSpots\CarSpots\obj\Debug\net10.0\CarSpots.pdb
 C:\Projects\ToGitHub\CarSpots\CarSpots\CarSpots\obj\Debug\net10.0\CarSpots.genruntimeconfig.cache
 C:\Projects\ToGitHub\CarSpots\CarSpots\CarSpots\obj\Debug\net10.0\ref\CarSpots.dll
+C:\Projects\ToGitHub\CarSpots\CarSpots\CarSpots\obj\Debug\net10.0\CarSpots.sourcelink.json

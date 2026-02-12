@@ -37,21 +37,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ParkingServiceTest.cs",
-              "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
-              "RelativeDocumentMoniker": "TestProject1\\ParkingServiceTest.cs",
-              "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
-              "RelativeToolTip": "TestProject1\\ParkingServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:07:39.148Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,9 +47,23 @@
               "RelativeDocumentMoniker": "CarSpots\\ParkingService.cs",
               "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\ParkingService.cs",
               "RelativeToolTip": "CarSpots\\ParkingService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAIAwwDAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:30:46.86Z"
+              "WhenOpened": "2026-02-12T16:17:27.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingServiceTest.cs",
+              "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ParkingServiceTest.cs",
+              "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
+              "RelativeToolTip": "TestProject1\\ParkingServiceTest.cs",
+              "ViewState": "AgIAAAAAAACoMzMzMzP7vwkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:07:39.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +75,8 @@
               "RelativeToolTip": "CarSpots\\Tiket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:19:41.946Z"
+              "WhenOpened": "2026-02-11T23:19:41.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
