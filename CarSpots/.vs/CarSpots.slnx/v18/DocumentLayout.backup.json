@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FBC64C8E-05C4-B782-15AF-C47313BAB166}|CarSpots\\CarSpots.csproj|solutionrelative:carspots\\parkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FBC64C8E-05C4-B782-15AF-C47313BAB166}|CarSpots\\CarSpots.csproj|c:\\projects\\togithub\\carspots\\carspots\\carspots\\iparkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC64C8E-05C4-B782-15AF-C47313BAB166}|CarSpots\\CarSpots.csproj|solutionrelative:carspots\\iparkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\projects\\togithub\\carspots\\carspots\\testproject1\\parkingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\parkingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,8 +41,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IParkingService.cs",
+              "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\IParkingService.cs",
+              "RelativeDocumentMoniker": "CarSpots\\IParkingService.cs",
+              "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\IParkingService.cs",
+              "RelativeToolTip": "CarSpots\\IParkingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:22:04.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,27 +64,27 @@
               "RelativeDocumentMoniker": "CarSpots\\ParkingService.cs",
               "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\ParkingService.cs",
               "RelativeToolTip": "CarSpots\\ParkingService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAlJmZmZnhvxQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T16:17:27.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ParkingServiceTest.cs",
               "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
               "RelativeDocumentMoniker": "TestProject1\\ParkingServiceTest.cs",
               "ToolTip": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\TestProject1\\ParkingServiceTest.cs",
               "RelativeToolTip": "TestProject1\\ParkingServiceTest.cs",
-              "ViewState": "AgIAAAAAAACoMzMzMzP7vwkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAACoMzMzMzP7vwYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T00:07:39.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Tiket.cs",
               "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\Tiket.cs",
               "RelativeDocumentMoniker": "CarSpots\\Tiket.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IParkingOperation.cs",
               "DocumentMoniker": "C:\\Projects\\CarSpots\\CarSpots\\IParkingOperation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\CarSpots\\CarSpots\\IParkingOperation.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\Vehicle.cs",
               "RelativeDocumentMoniker": "CarSpots\\Vehicle.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ParkingSpot.cs",
               "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\ParkingSpot.cs",
               "RelativeDocumentMoniker": "CarSpots\\ParkingSpot.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\ToGitHub\\CarSpots\\CarSpots\\CarSpots\\Program.cs",
               "RelativeDocumentMoniker": "CarSpots\\Program.cs",

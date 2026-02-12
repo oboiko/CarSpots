@@ -4,12 +4,14 @@ using System.Text;
 
 namespace CarSpots
 {
-    public class ParkingService : IParkingOperation
+    public class ParkingService : IParkingService
     {
-        ParkingSpot[] parkingSpots = new ParkingSpot[60];
+        private readonly ParkingSpot[] parkingSpots;
 
-        public ParkingService()
+        public ParkingService(int spotsCount)
         {
+            parkingSpots = new ParkingSpot[spotsCount];
+            
             for (int i = 0; i < parkingSpots.Length; i++)
             {
                 parkingSpots[i]= new ParkingSpot();

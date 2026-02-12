@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CarSpots
 {
-    public interface IParkingOperation
+    public interface IParkingService
     {
         public bool Park(Vehicle vehicle);
         public bool Leave(Vehicle vehicle);

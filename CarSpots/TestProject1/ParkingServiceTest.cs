@@ -4,7 +4,7 @@ namespace TestProject1
 {
     public class ParkingServiceTest
     {
-        private IParkingOperation _service = new ParkingService();
+        private IParkingService _service = new ParkingService(60);
 
         [Fact]
         public void ParkTest()
